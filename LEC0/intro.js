@@ -17,5 +17,5 @@ let data = {
         rating:10
     }
   };
-  console.log(data.name);
+  console.log(data[name]);
   
